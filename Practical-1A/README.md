@@ -26,3 +26,7 @@ The Internet is a global network that connects computers and devices worldwide u
 8. Understand how FTP uses separate connections for control and data transfer.
 9. Compare the uses of Internet, WWW, E-mail, Broadband, and FTP.
 10. Record the observations and complete the practical.
+
+## Conclusion
+
+In this practical, we studied the basic concepts of the Internet and its major services such as E-mail, WWW, Broadband, and FTP. We understood how the Internet connects devices globally, how websites are accessed through web browsers, how E-mail is used for communication, and how FTP is used for file transfer.
